@@ -1,6 +1,6 @@
 # model
 # Full Machine Learning + Flask Project for Heart Failure Prediction
-# Folder Structure:
+# Folder Structure: 
 # - model.ipynb
 # - model.pkl
 # - app.py
